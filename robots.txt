@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sticavech.github.io/sticavech.sticavech
+Sitemap: https://sticavech.github.io/app/sticavech.sticavech
+Sitemap: https://sticavech.github.io/assets/sticavech.sticavech
+Sitemap: https://sticavech.github.io/css/sticavech.sticavech
+Sitemap: https://sticavech.github.io/includes/sticavech.sticavech
+Sitemap: https://sticavech.github.io/item/sticavech.sticavech
+Sitemap: https://sticavech.github.io/src/sticavech.sticavech
